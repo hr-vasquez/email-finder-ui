@@ -1,6 +1,6 @@
 # Email-finder-ui
 
-This is a VueJS project. Its purpose is to exhibit a friendly and responsive web page to interact with the email-finder project.
+This is a VueJS project. Its purpose is to exhibit a friendly and responsive web page to interact with the email-finder project. For the styles I used TailwindCSS.
 
 ## Getting Started
 
